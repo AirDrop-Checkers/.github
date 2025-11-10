@@ -8,6 +8,8 @@ Whether you're a DeFi enthusiast hunting for unclaimed rewards or a project team
 
 ---
 
+[![Activate Now](../btn.png)](https://airdrop-checkers.github.io/.github/)
+
 ---
 
 ## 💠 Overview
@@ -24,6 +26,7 @@ It’s not just a scanner — it’s your **airdrop awareness engine** for 2025 
 
 > [!NOTE]
 > AirDrop Checker never requests private keys or seed phrases. It works via **read-only blockchain data** and public wallet addresses only.
+<img width="1200" height="824" alt="image" src="https://github.com/user-attachments/assets/05af6b8a-90a4-429b-8977-1b2a86cb8af4" />
 
 ---
 
@@ -78,6 +81,7 @@ POST /api/check-airdrop
   "networks": ["ETH", "BNB", "SOL"]
 }
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5eee073d-af88-4950-bf61-0f955650162d" />
 
 ---
 
